@@ -7,7 +7,6 @@
 
 2. De la carpeta https://github.com/diegofloresval/labo2024ba/tree/main/src/workflows/EntregaFinalDF, abrir el archivo "901_run_workflow_SEMI_conceptual_DFlores", ejecutarlo.
 
-3. Una vez finalizado el workflow, y habiéndose generado todas las subidas a Kaggle, entre sus submissions, elegir para la entrega final el modelo "KA-XXXX_01_025_r1_02200.CSV".
+3. Una vez finalizado el workflow, y habiéndose generado todas las subidas a Kaggle, entre sus submissions, elegir para la entrega final el modelo "KA-XXXX_01_025_r1_02200.CSV". Siendo "XXXX" el número de carpeta que genera la corrida en Home/buckets/b1/expw/KA-XXXX.
 
-Nota: 'XXXX' corresponde al número de carpeta que genere la corrida del modelo en el bucket.
 

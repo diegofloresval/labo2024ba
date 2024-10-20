@@ -1,1 +1,13 @@
+# Entrega Final Laboratorio de Implementación I - Maestría en Ciencia de Datos
+## Profesores: Arrieta, Fernando - Denicolay, Gustavo 
+## Diego Flores
+### Instructivo de replicabilidad competencia Kaggle
+
+1. De la carpeta , copiar el archivo "miAmbiente.yml" y pegarlo en la ruta ~/buckets/b1.
+
+2. De la carpeta , abrir el archivo "", ejecutarlo.
+
+3. Una vez finalizado el workflow, y habiéndose generado todas las subidas a Kaggle, entre sus submissions, elegir para la entrega final el modelo "KA-XXXX_01_025_r1_02200.CSV".
+
+Nota: 'XXXX' corresponde al número de carpeta que genere la corrida del modelo en el bucket.
 

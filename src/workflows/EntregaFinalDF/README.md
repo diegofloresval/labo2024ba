@@ -5,7 +5,7 @@
 
 1. De la carpeta https://github.com/diegofloresval/labo2024ba/tree/main/src/workflows/EntregaFinalDF, copiar el archivo "miAmbiente.yml" y pegarlo en la ruta ~/buckets/b1.
 
-2. De la carpeta , abrir el archivo "", ejecutarlo.
+2. De la carpeta https://github.com/diegofloresval/labo2024ba/tree/main/src/workflows/EntregaFinalDF, abrir el archivo "901_run_workflow_SEMI_conceptual_DFlores", ejecutarlo.
 
 3. Una vez finalizado el workflow, y habiéndose generado todas las subidas a Kaggle, entre sus submissions, elegir para la entrega final el modelo "KA-XXXX_01_025_r1_02200.CSV".
 
